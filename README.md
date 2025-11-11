@@ -1,4 +1,4 @@
-# Sales Data ETL Pipeline
+# Data ETL Pipeline
 
 A modular **ETL (Extract, Transform, Load)** project for processing carts data from a Dummy API into a SQL Server database using Python.  
 The project includes structured logging,configurable database connectivity.
@@ -7,7 +7,7 @@ The project includes structured logging,configurable database connectivity.
 
 ## Overview
 
-This ETL pipeline automates the process of reading sales data from Excel, cleaning and transforming it, and loading it into a SQL Server table named **`Carts`**.
+This ETL pipeline automates the process of reading data from API, cleaning and transforming it, and loading it into a SQL Server table named **`Carts`**.
 
 The process follows a simple 3-step design:
 
