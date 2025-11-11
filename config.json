@@ -1,0 +1,8 @@
+{
+    "apiurl": "https://dummyjson.com/carts",
+    "driver": "ODBC Driver 17 for SQL Server",
+    "server": "localhost\\SQLEXPRESS",
+    "database": "DummyDB",
+    "TRUSTED_CONNECTION": "yes",
+    "table": "Carts"
+}
